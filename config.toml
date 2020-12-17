@@ -1,4 +1,4 @@
-baseURL = "http://www.clouru.com/"
+baseURL = "clouru.netlify.app"
 title   = "Hello Friend NG"
 languageCode = "en-us"
 theme = "hello-friend-ng"
