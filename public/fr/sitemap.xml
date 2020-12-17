@@ -123,20 +123,6 @@
   </url>
   
   <url>
-    <loc>http://www.clouru.com/fr/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.clouru.com/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.clouru.com/fr/series/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.clouru.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"

@@ -45,7 +45,7 @@ disableHugoGeneratorInject = false
 [taxonomies]
   tag      = "tags"
   category = "categories"
-  series   = "series"
+  # series   = "series"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -82,6 +82,7 @@ disableHugoGeneratorInject = false
   #
   customCSS = []
   customJS  = []
+
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   #
