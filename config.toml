@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = "static/images/logo_large.png"
 
-  homeSubtitle = "Hello There.."
+  # homeSubtitle = "Hello There.."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
