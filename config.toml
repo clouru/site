@@ -117,11 +117,11 @@ disableHugoGeneratorInject = false
     # logoCursorAnimate  = "2s"
 
   # Uncomment this if you want a portrait on your start page
-  
+
   [params.portrait]
-     path     = "/img/logo_large.png"
+     path     = "/img/logo_medium.png"
      alt      = "Logo"
-     maxWidth = "50rem"
+     maxWidth = "80%"
 
   # Social icons
   [[params.social]]
