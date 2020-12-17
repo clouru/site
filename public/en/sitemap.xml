@@ -3,167 +3,167 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/posts/2014/09/creating-a-new-theme/</loc>
+    <loc>https://www.clouru.com/posts/2014/09/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
+                href="https://www.clouru.com/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/posts/2014/09/creating-a-new-theme/"
+                href="https://www.clouru.com/posts/2014/09/creating-a-new-theme/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>https://www.clouru.com/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
+                href="https://www.clouru.com/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/posts/2014/03/migrate-to-hugo-from-jekyll/"
+                href="https://www.clouru.com/posts/2014/03/migrate-to-hugo-from-jekyll/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/</loc>
+    <loc>https://www.clouru.com/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/fr/"
+                href="https://www.clouru.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/"
+                href="https://www.clouru.com/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/posts/</loc>
+    <loc>https://www.clouru.com/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/fr/posts/"
+                href="https://www.clouru.com/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/posts/"
+                href="https://www.clouru.com/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/about/</loc>
+    <loc>https://www.clouru.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/posts/2014/04/hugo-template-primer/</loc>
+    <loc>https://www.clouru.com/posts/2014/04/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
+                href="https://www.clouru.com/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/posts/2014/04/hugo-template-primer/"
+                href="https://www.clouru.com/posts/2014/04/hugo-template-primer/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/categories/</loc>
+    <loc>https://www.clouru.com/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/fr/categories/"
+                href="https://www.clouru.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/categories/"
+                href="https://www.clouru.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/categories/development/</loc>
+    <loc>https://www.clouru.com/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/tags/development/</loc>
+    <loc>https://www.clouru.com/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/posts/2014/04/getting-started-with-hugo/</loc>
+    <loc>https://www.clouru.com/posts/2014/04/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
+                href="https://www.clouru.com/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/posts/2014/04/getting-started-with-hugo/"
+                href="https://www.clouru.com/posts/2014/04/getting-started-with-hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/tags/go/</loc>
+    <loc>https://www.clouru.com/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/tags/golang/</loc>
+    <loc>https://www.clouru.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/categories/golang/</loc>
+    <loc>https://www.clouru.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/tags/hugo/</loc>
+    <loc>https://www.clouru.com/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/tags/</loc>
+    <loc>https://www.clouru.com/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/fr/tags/"
+                href="https://www.clouru.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdab7420bc89400085d09bd--clouru.netlify.app/tags/"
+                href="https://www.clouru.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/tags/templates/</loc>
+    <loc>https://www.clouru.com/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdab7420bc89400085d09bd--clouru.netlify.app/tags/themes/</loc>
+    <loc>https://www.clouru.com/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
