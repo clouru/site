@@ -124,25 +124,25 @@ disableHugoGeneratorInject = false
      maxWidth = "80%"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+  #[[params.social]]
+  #  name = "twitter"
+  #  url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:hello@clouru.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/clouru"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+#  [[params.social]]
+#    name = "linkedin"
+#    url  = "https://www.linkedin.com/"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+# [[params.social]]
+#  name = "stackoverflow"
+#  url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
