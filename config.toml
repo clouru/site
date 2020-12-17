@@ -57,7 +57,7 @@ disableHugoGeneratorInject = false
   # 
   description = "Nice theme for homepages and blogs"
   keywords = ""
-  images = []
+  images = "static/images/logo_large.png"
 
   homeSubtitle = "Hello There.."
 
