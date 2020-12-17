@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "clouru"
+  name = "Clouru Consulting"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -96,8 +96,8 @@ disableHugoGeneratorInject = false
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
   #
-  footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-  footerRight = "Made by <a href=\"https://github.com/clouru\">clouru consulting</a>"
+  # footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  # footerRight = "Made by <a href=\"https://github.com/clouru\">clouru consulting</a>"
 
   # Colors for favicons
   #
