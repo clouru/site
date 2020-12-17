@@ -1,100 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on clouru</title>
-    <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/</link>
-    <description>Recent content in Tags on clouru</description>
+    <title>Tags on Hello Friend NG</title>
+    <link>localhost/tags/</link>
+    <description>Recent content in Tags on Hello Friend NG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate><atom:link href="https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate><atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/demo/</link>
+      <link>localhost/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/demo/</guid>
+      <guid>localhost/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/image/</link>
+      <link>localhost/tags/image/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/image/</guid>
+      <guid>localhost/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/github/</link>
+      <link>localhost/tags/github/</link>
       <pubDate>Mon, 05 Nov 2018 13:22:14 +2400</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/github/</guid>
+      <guid>localhost/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/markdown/</link>
+      <link>localhost/tags/markdown/</link>
       <pubDate>Mon, 05 Nov 2018 13:22:14 +2400</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/markdown/</guid>
+      <guid>localhost/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>website</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/website/</link>
+      <link>localhost/tags/website/</link>
       <pubDate>Mon, 05 Nov 2018 13:22:14 +2400</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/website/</guid>
+      <guid>localhost/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/typography/</link>
+      <link>localhost/tags/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/typography/</guid>
+      <guid>localhost/tags/typography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/development/</link>
+      <link>localhost/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/development/</guid>
+      <guid>localhost/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/go/</link>
+      <link>localhost/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/go/</guid>
+      <guid>localhost/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/golang/</link>
+      <link>localhost/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/golang/</guid>
+      <guid>localhost/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/hugo/</link>
+      <link>localhost/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/hugo/</guid>
+      <guid>localhost/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>localhost/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>localhost/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/tags/themes/</guid>
       <description></description>
     </item>
     

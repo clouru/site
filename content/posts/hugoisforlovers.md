@@ -1,5 +1,7 @@
 +++
 title = "Getting Started with Hugo"
+description = ""
+type = ["posts","post"]
 tags = [
     "go",
     "golang",
@@ -7,7 +9,13 @@ tags = [
     "development",
 ]
 date = "2014-04-02"
-toc = true
+categories = [
+    "Development",
+    "golang",
+]
+series = ["Hugo 101"]
+[ author ]
+  name = "Hugo Authors"
 +++
 
 ## Step 1. Install Hugo

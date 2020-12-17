@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GitHub on clouru</title>
-    <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/github/</link>
-    <description>Recent content in GitHub on clouru</description>
+    <title>GitHub on Hello Friend NG</title>
+    <link>localhost/tags/github/</link>
+    <description>Recent content in GitHub on Hello Friend NG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 05 Nov 2018 13:22:14 +2400</lastBuildDate><atom:link href="https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 05 Nov 2018 13:22:14 +2400</lastBuildDate><atom:link href="localhost/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>my first post</title>
-      <link>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/posts/my-first-post/</link>
+      <link>localhost/posts/my-first-post/</link>
       <pubDate>Mon, 05 Nov 2018 13:22:14 +2400</pubDate>
       
-      <guid>https://5fda9aa8a4791a0008d04171--thirsty-easley-fa2f0d.netlify.app/posts/my-first-post/</guid>
+      <guid>localhost/posts/my-first-post/</guid>
       <description></description>
     </item>
     
