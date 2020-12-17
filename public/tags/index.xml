@@ -2,117 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hello Friend NG</title>
-    <link>localhost/tags/</link>
+    <link>https://example.com/tags/</link>
     <description>Recent content in Tags on Hello Friend NG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate><atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Demo</title>
-      <link>localhost/tags/demo/</link>
-      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
-      
-      <guid>localhost/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image</title>
-      <link>localhost/tags/image/</link>
-      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
-      
-      <guid>localhost/tags/image/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GitHub</title>
-      <link>localhost/tags/github/</link>
-      <pubDate>Mon, 05 Nov 2018 13:22:14 +2400</pubDate>
-      
-      <guid>localhost/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>localhost/tags/markdown/</link>
-      <pubDate>Mon, 05 Nov 2018 13:22:14 +2400</pubDate>
-      
-      <guid>localhost/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>website</title>
-      <link>localhost/tags/website/</link>
-      <pubDate>Mon, 05 Nov 2018 13:22:14 +2400</pubDate>
-      
-      <guid>localhost/tags/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Typography</title>
-      <link>localhost/tags/typography/</link>
-      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
-      
-      <guid>localhost/tags/typography/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>localhost/tags/development/</link>
+      <link>https://example.com/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/development/</guid>
+      <guid>https://example.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>localhost/tags/go/</link>
+      <link>https://example.com/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/go/</guid>
+      <guid>https://example.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>localhost/tags/golang/</link>
+      <link>https://example.com/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/golang/</guid>
+      <guid>https://example.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>localhost/tags/hugo/</link>
+      <link>https://example.com/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/hugo/</guid>
+      <guid>https://example.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>localhost/tags/templates/</link>
+      <link>https://example.com/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/templates/</guid>
+      <guid>https://example.com/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>localhost/tags/themes/</link>
+      <link>https://example.com/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/themes/</guid>
+      <guid>https://example.com/tags/themes/</guid>
       <description></description>
     </item>
     
