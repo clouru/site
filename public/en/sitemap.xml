@@ -3,187 +3,187 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/posts/2014/09/creating-a-new-theme/</loc>
+    <loc>http://www.clouru.com/posts/2014/09/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
+                href="http://www.clouru.com/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/posts/2014/09/creating-a-new-theme/"
+                href="http://www.clouru.com/posts/2014/09/creating-a-new-theme/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>http://www.clouru.com/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
+                href="http://www.clouru.com/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/posts/2014/03/migrate-to-hugo-from-jekyll/"
+                href="http://www.clouru.com/posts/2014/03/migrate-to-hugo-from-jekyll/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/</loc>
+    <loc>http://www.clouru.com/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/fr/"
+                href="http://www.clouru.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/"
+                href="http://www.clouru.com/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/series/hugo-101/</loc>
+    <loc>http://www.clouru.com/series/hugo-101/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/series/</loc>
+    <loc>http://www.clouru.com/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/fr/series/"
+                href="http://www.clouru.com/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/series/"
+                href="http://www.clouru.com/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/about/</loc>
+    <loc>http://www.clouru.com/series/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.clouru.com/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.clouru.com/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.clouru.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/posts/2014/04/hugo-template-primer/</loc>
+    <loc>http://www.clouru.com/posts/2014/04/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
+                href="http://www.clouru.com/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/posts/2014/04/hugo-template-primer/"
+                href="http://www.clouru.com/posts/2014/04/hugo-template-primer/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/categories/</loc>
+    <loc>http://www.clouru.com/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/fr/categories/"
+                href="http://www.clouru.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/categories/"
+                href="http://www.clouru.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/categories/development/</loc>
+    <loc>http://www.clouru.com/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/tags/development/</loc>
+    <loc>http://www.clouru.com/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/posts/2014/04/getting-started-with-hugo/</loc>
+    <loc>http://www.clouru.com/posts/2014/04/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
+                href="http://www.clouru.com/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/posts/2014/04/getting-started-with-hugo/"
+                href="http://www.clouru.com/posts/2014/04/getting-started-with-hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/tags/go/</loc>
+    <loc>http://www.clouru.com/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/tags/golang/</loc>
+    <loc>http://www.clouru.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/categories/golang/</loc>
+    <loc>http://www.clouru.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/tags/hugo/</loc>
+    <loc>http://www.clouru.com/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/tags/</loc>
+    <loc>http://www.clouru.com/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/fr/tags/"
+                href="http://www.clouru.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/tags/"
+                href="http://www.clouru.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/tags/templates/</loc>
+    <loc>http://www.clouru.com/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://5fdaa11a6dfb540008e6cc88--thirsty-easley-fa2f0d.netlify.app/tags/themes/</loc>
+    <loc>http://www.clouru.com/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
