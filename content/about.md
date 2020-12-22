@@ -1,19 +1,21 @@
 +++
 title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
+date = "2020-12-21"
+aliases = ["about-us","about-clouru","contact"]
 [ author ]
-name = "Hugo Authors"
+name = "cloru Authors"
 +++
 
-Hugo is the **lol fastest framework for building websites**. It is written in Go.
+**Cloud focused** software design team.
 
-It makes use of a variety of open source projects including:
+What we do:
 
-- https://github.com/russross/blackfriday
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+- Cloud Consulting
+- Shopify Development
+- Portfolio Building and Design
+- Search Engine Optimisation
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Check out our:
+
+- [Porfolio](https://clouru.com/portfolio)
+- [Blog posts](https://clouru.com/posts)
